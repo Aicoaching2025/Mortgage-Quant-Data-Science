@@ -2,9 +2,9 @@
 ### **📌 Mortgage Prepayment & Default Risk Modeling**
 #### **A Data-Driven Approach for Front Office Mortgage Trading & Risk Management**
   
-📊 **Author:** [Your Name]  
-📅 **Date:** [Update Before Publishing]  
-🚀 **GitHub Repository:** [Insert Link Here]  
+📊 **Author:** Candsace Grant
+📅 **Date:**March 17th, 2025
+🚀 **GitHub Repository:** aicoaching2025@github.com
 
 ---
 
