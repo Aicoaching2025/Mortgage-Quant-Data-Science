@@ -136,8 +136,3 @@ streamlit run app.py
 
 📌 **If you find this project useful, give it a ⭐ on GitHub!**  
 
-🔗 **GitHub Repo:** [Insert Link]  
-
----
-
-Would you like me to format a **cover letter** to accompany your application based on this project? 🚀
