@@ -1,6 +1,3 @@
-Here's a **professional README** for your **Machine Learning-Based Prepayment & Default Modeling for Mortgage-Backed Securities (MBS)** project. This will make your project stand out when shared on GitHub or LinkedIn.  
-
----
 
 ### **📌 Mortgage Prepayment & Default Risk Modeling**
 #### **A Data-Driven Approach for Front Office Mortgage Trading & Risk Management**
