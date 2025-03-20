@@ -4,7 +4,7 @@
   
 📊 **Author:** Candsace Grant
 📅 **Date:**March 17th, 2025
-🚀 **GitHub Repository:** aicoaching2025@github.com
+🚀 GitHub Repository: aicoaching2025@github.com
 
 ---
 
