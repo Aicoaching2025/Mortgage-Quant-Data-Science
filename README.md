@@ -3,7 +3,7 @@
 #### **A Data-Driven Approach for Front Office Mortgage Trading & Risk Management**
   
 📊 **Author:** Candsace Grant
-📅 **Date:**March 17th, 2025
+📅 Date:**March 17th, 2025
 🚀 GitHub Repository: aicoaching2025@github.com
 
 ---
