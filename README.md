@@ -123,8 +123,7 @@ streamlit run app.py
 ---
 
 ## **📬 Contact & Next Steps**
-💡 Want to discuss this project further? Connect with me on [LinkedIn](#) or check out my [GitHub](#) for more financial analytics projects.  
-
+💡 Want to discuss this project further? Connect with me on Linkedin.com/in/candace215 
 ---
 
 ## **⭐ Next Steps**
